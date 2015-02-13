@@ -1,7 +1,0 @@
-##Rasperry Pi daemon
-
-
-
-
-
-##Microcontroller
