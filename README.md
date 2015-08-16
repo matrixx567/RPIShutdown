@@ -1,10 +1,13 @@
 RPIShutdown
 ===========
 
+[![Documentation Status](https://readthedocs.org/projects/rpishutdown/badge/?version=latest)](https://readthedocs.org/projects/rpishutdown/?badge=latest)
+
+
 RPIShutdown adds a power switch to the Raspberry Pi. So it is possible to completely 
 disconnect the Pi from the electrical power source.
 
-![](http://matrixx567.github.io/RPIShutdown/images/RPIShutdown.JPG)
+![](https://github.com/matrixx567/RPIShutdown/blob/master/docs/source/_static/images/RPIShutdown.JPG)
 
 How it works?
 -------------
@@ -18,12 +21,12 @@ disconnecting the power.
 
 Installation
 -------------
-More information is available in the [installation notes](http://matrixx567.github.io/RPIShutdown/index.html#!content/installation-notes.md) in the wiki.
+More information is available in the [installation notes](http://rpishutdown.readthedocs.org/content/installation-notes.html) in the documentation.
 
 
 Documentation
 --------------
-More information are available in the [project wiki](http://matrixx567.github.io/RPIShutdown).
+More information are available in the [project documentation](http://rpishutdown.readthedocs.org).
 
 
 other Projects
