@@ -35,7 +35,6 @@ extensions = [
     'sphinx.ext.intersphinx',
     'sphinx.ext.todo',
     'sphinx.ext.ifconfig',
-	'sphinxcontrib.napoleon'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -275,10 +274,3 @@ texinfo_documents = [
 
 # Example configuration for intersphinx: refer to the Python standard library.
 intersphinx_mapping = {'http://docs.python.org/': None}
-
-[extensions]
-todo_include_todos=True
-napoleon_use_ivar = True
-napoleon_include_private_with_doc=True
-napoleon_use_rtype=False
-
