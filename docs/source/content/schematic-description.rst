@@ -1,4 +1,6 @@
-﻿Schematic description
+﻿.. _schematic:
+
+Schematic description
 =====================
 
 .. figure:: ../_static/images/schematic.png

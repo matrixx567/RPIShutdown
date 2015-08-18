@@ -8,8 +8,8 @@ Flashing the microcontroller
 
 The code for the microcontroller must be compiled and flashed. In the
 actual version the RPIShutdown uses a relais for switching the power of
-the Raspberry Pi. The circuit is an open-collector output. The described
-`schematic`_ uses a P-Mosfet, so the code of the microcontroller must be
+the Raspberry Pi. The circuit is an open-collector output. The schematic derscribed in
+:ref:`schematic` uses a P-Mosfet, so the code of the microcontroller must be
 changed.
 
 Connecting the RPIShutdown to the Raspberry Pi
