@@ -1,7 +1,7 @@
 RPIShutdown
 ===========
 
-[![Documentation Status](https://readthedocs.org/projects/rpishutdown/badge/?version=latest)](https://readthedocs.org/projects/rpishutdown/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/rpishutdown/badge/?version=latest)](http://rpishutdown.readthedocs.org/)
 
 
 RPIShutdown adds a power switch to the Raspberry Pi. So it is possible to completely 
