@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.3">
+<eagle version="7.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -15703,7 +15703,7 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 <wire x1="90.578490625" y1="22.917340625" x2="89.5985" y2="24.384" width="0.254" layer="94" curve="-67.500036"/>
 <wire x1="89.5985" y1="24.384" x2="91.793509375" y2="22.917340625" width="0.254" layer="94" curve="-247.500028"/>
 <wire x1="91.793509375" y1="22.917340625" x2="92.522521875" y2="21.15735" width="0.254" layer="94"/>
-<text x="83.566" y="18.288" size="1.778" layer="94">open hardware</text>
+<text x="91.186" y="18.288" size="1.778" layer="94" align="center">open hardware</text>
 <text x="1.27" y="17.78" size="2.54" layer="94" align="center-left">PROJECT:</text>
 <wire x1="0" y1="10.16" x2="87.63" y2="10.16" width="0.1016" layer="94"/>
 <text x="1.27" y="12.7" size="2.54" layer="94" align="center-left">TITLE:</text>
@@ -15965,7 +15965,10 @@ Interface</text>
 <instance part="X3" gate="G$1" x="129.54" y="106.68"/>
 <instance part="Q1" gate="G$1" x="81.28" y="109.22" rot="R90"/>
 <instance part="GND5" gate="1" x="48.26" y="99.06"/>
-<instance part="R1" gate="G$1" x="43.18" y="104.14"/>
+<instance part="R1" gate="G$1" x="43.18" y="104.14" smashed="yes">
+<attribute name="NAME" x="39.37" y="105.6386" size="1.778" layer="95"/>
+<attribute name="VALUE" x="45.212" y="105.664" size="1.778" layer="96"/>
+</instance>
 <instance part="GND7" gate="1" x="127" y="99.06"/>
 <instance part="H1" gate="G$1" x="7.62" y="5.08"/>
 <instance part="SV2" gate="G$1" x="162.56" y="109.22" rot="R180"/>
@@ -15981,7 +15984,7 @@ Interface</text>
 <instance part="GND10" gate="1" x="12.7" y="55.88"/>
 <instance part="SW1" gate="G$1" x="119.38" y="53.34" smashed="yes" rot="R90">
 <attribute name="NAME" x="116.6114" y="48.26" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="127.127" y="42.2275" size="1.778" layer="96" rot="R90"/>
+<attribute name="VALUE" x="129.667" y="42.2275" size="1.778" layer="96" rot="R90"/>
 </instance>
 </instances>
 <busses>
