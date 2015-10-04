@@ -2,7 +2,7 @@
 Project:  RPISupply
 Title:    Add a supply switch to the raspberry pi
 Author:   Martin Noehrer
-Email:    matrixx567@yahoo.at
+Email:    martin@mnprojects.net
 Homepage: https://github.com/matrixx567/RPIShutdown
 File:     main.c
 Date:
