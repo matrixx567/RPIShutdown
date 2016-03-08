@@ -1,13 +1,22 @@
 ﻿.. _schematic:
 
-Schematic description
-=====================
+Hardware
+========
+
+Schematic
+---------
 
 .. figure:: ../_static/images/schematic.png
    :target: ../_static/images/schematic.png
    :alt: Schematic
    :align:   center
 
+
+Description
+-----------
+
+
+   
 Bill of materials
 -----------------
 

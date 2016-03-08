@@ -31,8 +31,13 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   content/installation-notes
+   content/system-overview
    content/schematic-description
+   content/software-microcontroller
+   content/software-rpi
+   content/prototype
+   content/reset-problems
+   content/installation-notes
    license
 
 

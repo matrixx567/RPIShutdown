@@ -1,4 +1,6 @@
-﻿Installation notes
+﻿
+
+Installation notes
 ==================
 
 This page describes how to install the RPIShutdown to your Raspberry Pi.
@@ -35,5 +37,17 @@ change the path variable in ``RPIShutdown.sh``.
 
 With ``sudo service RPIShutdown.sh status`` the status of the daemon can
 be checked.
+
+
+Github Repository Structure
+---------------------------
+
+The project folder is organized in the following structure::
+
+	RPIShutdown
+	+--- board  (Schematics)
+	+--- docs   (Documentation files for ReadTheDocs)
+	+--- src    (Microcontroller software)
+	\--- src_pi (Raspberry Pi software)
 
 .. _schematic: schematic-description
