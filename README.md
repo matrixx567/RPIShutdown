@@ -35,6 +35,8 @@ other Projects
 [ATXRaspi](http://lowpowerlab.com/atxraspi/): Has nearly the same functionality and you can buy it. 
 But it isn't open source.
 
+[PI2RMini](https://awjlogan.wordpress.com/2014/03/01/pi2rmini-a-proper-power-switch-for-the-raspberrypi/)
+
 License
 --------------
 The MIT License (MIT)
