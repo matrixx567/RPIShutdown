@@ -1,0 +1,17 @@
+site_name: RPIShutdown
+site_author: Martin Noehrer
+google_analytics: ['UA-37979575-4', 'RPIShutdownDocu']
+
+pages:
+- Home: index.md
+- System Overview: system_overview.md
+
+- Installation Notes: installation_notes.md
+- Prototype: first_prototype.md
+- License: license.md
+
+
+theme: readthedocs
+
+markdown_extensions:
+    - smarty

@@ -1,0 +1,28 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-32
+backports_abc=0.4=py34_0
+blinker=1.4=py34_0
+click=6.3=py34_0
+docutils=0.12=py34_1
+feedgenerator=1.7=py34_0
+ghp-import=0.4.1=py34_0
+jinja2=2.8=py34_0
+livereload=2.4.1=py34_0
+markdown=2.6.5=py34_0
+markupsafe=0.23=py34_0
+mkdocs=0.15.2=py34_0
+mkdocs-bootstrap=0.1.1=py34_0
+mkdocs-bootswatch=0.2.0=py34_0
+msvc_runtime=1.0.1=vc10_0
+pip=8.0.3=py34_0
+pygments=2.1.1=py34_0
+python=3.4.4=2
+python-dateutil=2.4.2=py34_0
+pytz=2015.7=py34_0
+pyyaml=3.11=py34_3
+setuptools=20.1.1=py34_0
+six=1.10.0=py34_0
+tornado=4.3=py34_0
+unidecode=0.4.17=py34_0
+wheel=0.29.0=py34_0
