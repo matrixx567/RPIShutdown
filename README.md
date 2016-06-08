@@ -7,7 +7,7 @@ RPIShutdown
 RPIShutdown adds a power switch to the Raspberry Pi. So it is possible to completely 
 disconnect the Pi from the electrical power source.
 
-![](https://github.com/matrixx567/RPIShutdown/blob/master/docs/source/_static/images/RPIShutdown.JPG)
+![](https://raw.githubusercontent.com/matrixx567/RPIShutdown/master/docs/docs/img/RPIShutdown.JPG)
 
 How it works?
 -------------
